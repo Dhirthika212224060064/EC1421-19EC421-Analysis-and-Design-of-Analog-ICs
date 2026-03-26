@@ -18,7 +18,8 @@ ACL = 1 + ( RF / R1)
 <img width="1467" height="1064" alt="image" src="https://github.com/user-attachments/assets/1b24f131-c5e0-4818-9d09-f06b667f9032" />
 
 ## MODEL GRAPH:
-<img width="1496" height="959" alt="image" src="https://github.com/user-attachments/assets/136ac377-2826-4708-9b50-263355d5c7b5" />
+<img width="1476" height="807" alt="image" src="https://github.com/user-attachments/assets/5253ba82-1d1c-4e56-8ec9-ef610f88de41" />
+
 
 ## PROCEDURE:
 ### Non-Inverting Amplifier
@@ -37,10 +38,12 @@ ACL = 1 + ( RF / R1)
 <img width="1600" height="892" alt="image" src="https://github.com/user-attachments/assets/0d7c7f3d-3339-4baa-aa97-1db88472741f" />
 
 ## CALCULATIONS:
-<img width="1600" height="712" alt="image" src="https://github.com/user-attachments/assets/ceda6e3d-f21d-4025-8710-5625dcf76282" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/720e1d01-819d-47a1-8e87-dbd5eac3b49e" />
+
 
 ## GRAPH:
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/1f19e082-d38e-4245-a1d4-ccca0886b943" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/322fc0b5-76ad-4085-b54a-771f11139e4a" />
+
 
 
 ## RESULT:
