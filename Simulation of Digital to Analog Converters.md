@@ -6,7 +6,7 @@ To Design and simulate the digital to analog converter (DAC) circuit using LT Sp
 
 ## SOFTWARE REQUIRED:
 LT-Spice
-
+ 
 ## PROCEDURE:
 1. Double click on LT Spice icon.
 
