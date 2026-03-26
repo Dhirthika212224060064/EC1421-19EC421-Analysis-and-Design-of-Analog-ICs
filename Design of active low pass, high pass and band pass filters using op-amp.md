@@ -5,7 +5,7 @@
 
 To design and obtain the frequency response of 
 i) First order Low Pass Filter (LPF) 
-ii) First order High Pass Filter (HPF) 
+ii) First order High Pass Filter (HPF)  
 iii) Band pass filter
  
 ## APPARATUS REQUIRED
