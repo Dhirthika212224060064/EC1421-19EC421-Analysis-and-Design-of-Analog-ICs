@@ -7,7 +7,7 @@ To Design and simulate the following circuits using LT-Spice
 a. Active low pass filter 
 b. Active high pass filter 
 c. Active band pass filter
-
+ 
 ## SOFTWARE REQUIRED:
 LT-Spice
 
