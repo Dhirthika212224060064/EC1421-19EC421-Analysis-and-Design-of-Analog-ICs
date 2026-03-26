@@ -32,7 +32,9 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/36f80d72-2f65-48c2-a5f7-4d32f7ca113d" />
 
 ## MODEL GRAPH:
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/6a36fac3-1a00-435e-9a6d-739f1c92531b" />
+<img width="1600" height="1188" alt="image" src="https://github.com/user-attachments/assets/b2f4371e-8f33-404b-8c04-0cab6011e709" />
+
+
 
 ## PROCEDURE:  
 1. Select the entire resistor with the same value. Let R be the gain varying resistor with 
@@ -49,10 +51,14 @@ input value of V1 and V2.
 waveforms are plotted in a graph sheet.
 
 ## TABULATION:
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/57566377-b452-4fe5-b0c9-e994968ad9fe" />
+<img width="1600" height="1007" alt="image" src="https://github.com/user-attachments/assets/e02b3ae4-4560-4f76-80ae-15df0d89da5f" />
+
+
 
 ## CALCULATIONS:
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/d014fc69-4bfc-4a7a-a05e-a2ffee9dd3f5" />
+<img width="1600" height="1089" alt="image" src="https://github.com/user-attachments/assets/f4a6ce69-eb30-466f-9fcc-d12d839b5641" />
+
+
 
 ## GRAPH:
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/ef0055ef-dcfc-4c12-b1f0-65626d00708f" />
