@@ -5,7 +5,7 @@
 
 To construct and test the CMRR of an instrumentation amplifier using op-amp  
 IC741.
- 
+  
 ## APPARATUS REQUIRED
 
 <img width="634" height="166" alt="image" src="https://github.com/user-attachments/assets/e7f51b72-b143-4728-9c65-6b9d447201cf" />
