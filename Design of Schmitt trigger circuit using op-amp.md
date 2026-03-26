@@ -7,7 +7,7 @@ To design the Schmitt trigger circuit using Op-amp IC 741.
 ## APPARATUS REQUIRED:
 <img width="920" height="241" alt="image" src="https://github.com/user-attachments/assets/caa7bce6-7525-4aef-bc1f-005959271f03" />
 
-## THEORY:
+## THEORY: 
 The circuit shows an inverting comparator with positive feedback. This circuit converts irregular shaped wave forms to a square wave or pulse. The circuit is known as the Schmitt trigger (or) squaring circuit. The input voltage Vin changes the state of the output Vo every time it exceeds certain voltage levels called the upper threshold voltage VUT and lower threshold voltage VLT.
 When Vo= - Vsat, the voltage across R1 is referred to as lower threshold voltage, VLT. When Vo=+Vsat, the voltage across R1 is referred to as upper threshold voltage VUT. The comparator with positive feedback is said to exhibit hysteresis, a dead band condition.
 
